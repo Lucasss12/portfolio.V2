@@ -5,3 +5,19 @@
 body {
   background-color: #161616;
 }
+
+.glow-button {
+  box-shadow: 0 0 15px rgba(243, 80, 52, 0.5);
+}
+
+.glow-button:hover {
+  box-shadow: 0 0 20px rgba(243, 80, 52, 0.75);
+}
+
+.glow {
+  box-shadow: 0 0 10px #10B981;
+}
+
+.glow:hover {
+  box-shadow: 0 0 15px #10B981;
+}
