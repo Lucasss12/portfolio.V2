@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function bentoKeysWords() {
 return (
-   <div className='lg:w-1/2 w-full text-secondary font-medium uppercase h-1/2 mt-3'>
+   <div className='text-secondary font-medium'>
       <div className='flex justify-center md:p-8 p-5 rounded-2xl border-[5px] bg-backgroundGrey background-key-word-1 border-borderGrey'>
          <h4>Interface utilisateur (UI)</h4>
       </div>

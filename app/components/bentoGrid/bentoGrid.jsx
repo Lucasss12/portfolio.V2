@@ -1,8 +1,8 @@
 import React from 'react'
 import BentoAbout from './ui/bentoAbout'
 import BentoSkills from './ui/bentoSkills'
-import BentoRecentWork from './ui/bentoRecentWork'
-import BentoKeysWords from './ui/bentoKeysWords'
+import BentoRightSide from './bentoRightSide/bentoRightSide'
+import BentoLeftSide from './BentoLeftSide/bentoLeftSide'
 
 export default function bentoGrid() {
   return (
@@ -10,8 +10,8 @@ export default function bentoGrid() {
       <BentoAbout />
       <BentoSkills />
       <div className='flex max-lg:flex-col lg:space-x-3'>
-        <BentoRecentWork />
-        <BentoKeysWords />
+        <BentoLeftSide />
+        <BentoRightSide />
       </div>
    </div>
   )

@@ -9,7 +9,7 @@ export default function bentoAbout() {
          <h3 className='order-2 sm:order-1 md:text-2xl text-xl font-medium max-sm:mt-3'>Développeur Frond-End</h3>
 
          <div className='order-1 sm:order-2 flex max-sm:w-[140px] items-center px-4 py-2 rounded-[38px] bg-backgroundBlack border-[2px] border-emerald-500 hover:border-emerald-400 transition-colors duration-200 ease-in-out'> 
-            <span className="glow-available inline-block h-5 w-5 mr-2 rounded-full bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-green-200 to-green-500"></span>
+            <span className="glow-available inline-block h-4 w-4 mr-2 rounded-full bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-green-200 to-green-500"></span>
             <p className='md:text-xl '>Disponible</p>
          </div>
       </div>

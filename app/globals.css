@@ -22,6 +22,14 @@ body {
   box-shadow: 0 0 15px #10B981;
 }
 
+.glow-recent-work {
+  box-shadow: 0 0 10px #F35034;
+}
+
+.glow-recent-work:hover {
+  box-shadow: 0 0 15px #F35034;
+}
+
 .background-key-word-1 {
   background-image: linear-gradient(
     25deg,
