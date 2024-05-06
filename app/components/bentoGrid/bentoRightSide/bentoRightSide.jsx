@@ -4,7 +4,7 @@ import BentoKeysWords from './ui/bentoKeysWords'
 
 export default function bentoRightSide() {
   return (
-   <div className='lg:w-1/2 w-full h-1/2 mt-3 border border-white'>
+   <div className='lg:w-1/2 w-full h-1/2 mt-3'>
       <BentoKeysWords />
       <BentoComments />
    </div>

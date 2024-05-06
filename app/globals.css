@@ -30,6 +30,14 @@ body {
   box-shadow: 0 0 15px #F35034;
 }
 
+.glow-hr {
+  box-shadow: 0 0 20px #F35034;
+}
+
+.glow-hr:hover {
+  box-shadow: 0 0 15px #F35034;
+}
+
 .background-key-word-1 {
   background-image: linear-gradient(
     25deg,

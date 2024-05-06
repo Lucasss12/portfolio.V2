@@ -18,37 +18,37 @@ return (
                <Image src='/avatar-comment-1.png' width={75} height={75} className='rounded-full border-[5px] border-borderGrey' alt='Avatar Lucas Méné' />
                <div className='ml-1'>
                   <h4 className='font-medium'>Jacommo D.</h4>
-                  <h4 className='text-secondary'>Développeur</h4>
+                  <h4 className='text-secondary'>Développeur Front-end</h4>
                </div>
             </div>
          </div> 
 
-         <hr className='border-primary'/>
+         <hr className='border-primary glow-hr'/>
          
          <div className='text-white'>
             <p>
-               “Superbe communication et travail correspondant parfaitement aux attentes.”
+               “Ayant travaillé en équipe avec Lucas sur ce projet, je témoigne de son sérieux et de ses compétences professionnelles. Je recommande.”
             </p>
             <div className='flex items-center mt-1'>
                <Image src='/avatar-comment-2.png' width={75} height={75} className='rounded-full border-[5px] border-borderGrey' alt='Avatar Lucas Méné' />
                <div className='ml-1'>
-                  <h4 className='font-medium'>Jacommo D.</h4>
-                  <h4 className='text-secondary'>Développeur</h4>
+                  <h4 className='font-medium'>Yann G.</h4>
+                  <h4 className='text-secondary'>Développeur Front-end</h4>
                </div>
             </div>
          </div> 
 
-         <hr className='border-primary'/>
+         <hr className='border-primary glow-hr'/>
 
          <div className='text-white'>
             <p>
-               “Superbe communication et travail correspondant parfaitement aux attentes.”
+               “Lucas est un développeur compétent et fiable, recommandé pour son expertise technique et son engagement dans la réussite des projets.”
             </p>
             <div className='flex items-center mt-1'>
                <Image src='/avatar-comment-3.png' width={75} height={75} className='rounded-full border-[5px] border-borderGrey' alt='Avatar Lucas Méné' />
                <div className='ml-1'>
-                  <h4 className='font-medium'>Jacommo D.</h4>
-                  <h4 className='text-secondary'>Développeur</h4>
+                  <h4 className='font-medium'>Lucas L.</h4>
+                  <h4 className='text-secondary'>Développeur Full-stack</h4>
                </div>
             </div>
          </div> 
